@@ -1,0 +1,2422 @@
+[
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__54cbf27b-869a-4c0c-bd1b-4d85c5f01a8c",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613528798663,
+			"occurredAt": 1613528786637,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 26.43,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "00981.hk",
+			"displayName": "00981.HK",
+			"marketName": "Semiconductor Manufacturing",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 2373,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/2373/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/2373/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/2373/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 17200,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 100,
+				"sellPercentage": 0
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 36.76,
+		"positionID": 954275443,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__54cbf27b-869a-4c0c-bd1b-4d85c5f01a8c",
+		"type": "CloseTrade",
+		"updatedAt": 1613528798663,
+		"occurredAt": 1613528786637,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__b3471b80-5960-4c75-95c0-60206d69d749",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613528755760,
+			"occurredAt": 1613528755687,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 29.12,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "xi",
+			"displayName": "XI",
+			"marketName": "Xiaomi Corp",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 1180,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/1180/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/1180/50x50.png",
+				"80X80": "https://etoro-cdn.etorostatic.com/market-avatars/1180/80x80.png",
+				"90X90": "https://etoro-cdn.etorostatic.com/market-avatars/1180/90x90.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/1180/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 97447,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 100,
+				"sellPercentage": 0
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 41.87,
+		"positionID": 954242425,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__b3471b80-5960-4c75-95c0-60206d69d749",
+		"type": "CloseTrade",
+		"updatedAt": 1613528755760,
+		"occurredAt": 1613528755687,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__fa9601a5-aba8-4a4c-a2d5-30ec48dc71d3",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613528731940,
+			"occurredAt": 1613528731817,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 16.43,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "03333.hk",
+			"displayName": "03333.HK",
+			"marketName": "China Evergrande Group",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 2393,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/2393/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/2393/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/2393/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 866,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 99,
+				"sellPercentage": 1
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 8.67,
+		"positionID": 970408538,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__fa9601a5-aba8-4a4c-a2d5-30ec48dc71d3",
+		"type": "CloseTrade",
+		"updatedAt": 1613528731940,
+		"occurredAt": 1613528731817,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__7f5a2117-a285-487c-8581-ac34088f28bc",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613528722160,
+			"occurredAt": 1613528722013,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 16.43,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "03333.hk",
+			"displayName": "03333.HK",
+			"marketName": "China Evergrande Group",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 2393,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/2393/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/2393/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/2393/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 866,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 99,
+				"sellPercentage": 1
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 11.2,
+		"positionID": 965475027,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__7f5a2117-a285-487c-8581-ac34088f28bc",
+		"type": "CloseTrade",
+		"updatedAt": 1613528722160,
+		"occurredAt": 1613528722013,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__cc6eeb78-6bed-4e8e-a96e-aa398d6985ca",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613528698677,
+			"occurredAt": 1613528698510,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 3.42,
+		"leverage": 1,
+		"direction": "Long",
+		"symbol": {
+			"name": "3800.hk",
+			"displayName": "3800.HK",
+			"marketName": "GCL-Poly Energy",
+			"categoryName": "stocks",
+			"priceFormat": 3,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 2317,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/2317/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/2317/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/2317/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 36806,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 99,
+				"sellPercentage": 1
+			}
+		},
+		"ratePrecision": 3,
+		"gain": 3.95,
+		"positionID": 950953064,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__cc6eeb78-6bed-4e8e-a96e-aa398d6985ca",
+		"type": "CloseTrade",
+		"updatedAt": 1613528698677,
+		"occurredAt": 1613528698510,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__27b9736e-bf33-437a-832a-6d56e0205fc9",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613505184957,
+			"occurredAt": 1613505184760,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 2.83,
+		"leverage": 1,
+		"direction": "Long",
+		"symbol": {
+			"name": "jagx",
+			"displayName": "JAGX",
+			"marketName": "Jaguar Health Inc",
+			"categoryName": "stocks",
+			"priceFormat": 3,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 6235,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/6235/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/6235/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/6235/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 68149,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 100,
+				"sellPercentage": 0
+			}
+		},
+		"ratePrecision": 3,
+		"gain": 0.0,
+		"positionID": 991051279,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__27b9736e-bf33-437a-832a-6d56e0205fc9",
+		"type": "OpenTrade",
+		"updatedAt": 1613505184957,
+		"occurredAt": 1613505184760,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__379e39fe-60f8-455c-95f1-a1094e7f1bed",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613502296050,
+			"occurredAt": 1613502295837,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 13.11,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "cron",
+			"displayName": "CRON",
+			"marketName": "Cronos Group Inc",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 1172,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/1172/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/1172/50x50.png",
+				"80X80": "https://etoro-cdn.etorostatic.com/market-avatars/1172/80x80.png",
+				"90X90": "https://etoro-cdn.etorostatic.com/market-avatars/1172/90x90.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/1172/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 30519,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 99,
+				"sellPercentage": 1
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 9.4937,
+		"positionID": 989298307,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__379e39fe-60f8-455c-95f1-a1094e7f1bed",
+		"type": "CloseTrade",
+		"updatedAt": 1613502296050,
+		"occurredAt": 1613502295837,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__5242cfd5-4c9d-4f76-87b3-13011a0188bc",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613502291637,
+			"occurredAt": 1613502291497,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 13.11,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "cron",
+			"displayName": "CRON",
+			"marketName": "Cronos Group Inc",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 1172,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/1172/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/1172/50x50.png",
+				"80X80": "https://etoro-cdn.etorostatic.com/market-avatars/1172/80x80.png",
+				"90X90": "https://etoro-cdn.etorostatic.com/market-avatars/1172/90x90.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/1172/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 30519,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 99,
+				"sellPercentage": 1
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 6.547,
+		"positionID": 989706864,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__5242cfd5-4c9d-4f76-87b3-13011a0188bc",
+		"type": "CloseTrade",
+		"updatedAt": 1613502291637,
+		"occurredAt": 1613502291497,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__4a66831d-c8d4-48f7-8e98-58f97189cf53",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613499388213,
+			"occurredAt": 1613499388083,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 13.41,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "cron",
+			"displayName": "CRON",
+			"marketName": "Cronos Group Inc",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 1172,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/1172/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/1172/50x50.png",
+				"80X80": "https://etoro-cdn.etorostatic.com/market-avatars/1172/80x80.png",
+				"90X90": "https://etoro-cdn.etorostatic.com/market-avatars/1172/90x90.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/1172/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 30519,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 99,
+				"sellPercentage": 1
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990711301,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__4a66831d-c8d4-48f7-8e98-58f97189cf53",
+		"type": "OpenTrade",
+		"updatedAt": 1613499388213,
+		"occurredAt": 1613499388083,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__b574f4d9-85d0-4a9a-87a8-e79ed1e0794f",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613498488623,
+			"occurredAt": 1613498488263,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 13.35,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "cron",
+			"displayName": "CRON",
+			"marketName": "Cronos Group Inc",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 1172,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/1172/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/1172/50x50.png",
+				"80X80": "https://etoro-cdn.etorostatic.com/market-avatars/1172/80x80.png",
+				"90X90": "https://etoro-cdn.etorostatic.com/market-avatars/1172/90x90.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/1172/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 30519,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 99,
+				"sellPercentage": 1
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990647089,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__b574f4d9-85d0-4a9a-87a8-e79ed1e0794f",
+		"type": "OpenTrade",
+		"updatedAt": 1613498488623,
+		"occurredAt": 1613498488263,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__7ff1fb49-c0e8-4a0b-90ad-611981336e0a",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613498229697,
+			"occurredAt": 1613498229547,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 13.26,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "cron",
+			"displayName": "CRON",
+			"marketName": "Cronos Group Inc",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 1172,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/1172/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/1172/50x50.png",
+				"80X80": "https://etoro-cdn.etorostatic.com/market-avatars/1172/80x80.png",
+				"90X90": "https://etoro-cdn.etorostatic.com/market-avatars/1172/90x90.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/1172/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 30519,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 99,
+				"sellPercentage": 1
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990626738,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__7ff1fb49-c0e8-4a0b-90ad-611981336e0a",
+		"type": "OpenTrade",
+		"updatedAt": 1613498229697,
+		"occurredAt": 1613498229547,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__fb83d817-8640-4734-afb8-0131b12ec0cf",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613498089480,
+			"occurredAt": 1613498089350,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 78.16,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "run",
+			"displayName": "RUN",
+			"marketName": "Sunrun Inc.",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 5660,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/5660/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/5660/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/5660/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 49677,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 100,
+				"sellPercentage": 0
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990612809,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__fb83d817-8640-4734-afb8-0131b12ec0cf",
+		"type": "OpenTrade",
+		"updatedAt": 1613498089480,
+		"occurredAt": 1613498089350,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__cf7dc224-ec1c-4204-979d-618371660879",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613497579073,
+			"occurredAt": 1613497578967,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 49.8,
+		"leverage": 1,
+		"direction": "Long",
+		"symbol": {
+			"name": "blnk",
+			"displayName": "BLNK",
+			"marketName": "Blink Charging Co",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 6193,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/6193/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/6193/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/6193/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 43335,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 100,
+				"sellPercentage": 0
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990537154,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__cf7dc224-ec1c-4204-979d-618371660879",
+		"type": "OpenTrade",
+		"updatedAt": 1613497579073,
+		"occurredAt": 1613497578967,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__f5b46a8b-106b-41d5-a5e2-bd1b60239803",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613497125833,
+			"occurredAt": 1613497125650,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 58.78,
+		"leverage": 1,
+		"direction": "Long",
+		"symbol": {
+			"name": "plug",
+			"displayName": "PLUG",
+			"marketName": "Plug Power Inc",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 6264,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/6264/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/6264/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/6264/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 80799,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 100,
+				"sellPercentage": 0
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990451881,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__f5b46a8b-106b-41d5-a5e2-bd1b60239803",
+		"type": "OpenTrade",
+		"updatedAt": 1613497125833,
+		"occurredAt": 1613497125650,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__714f644d-81c2-45f2-92eb-7e7fee9256a2",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613496793143,
+			"occurredAt": 1613496793033,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 77.77,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "run",
+			"displayName": "RUN",
+			"marketName": "Sunrun Inc.",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 5660,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/5660/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/5660/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/5660/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 49677,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 100,
+				"sellPercentage": 0
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990414678,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__714f644d-81c2-45f2-92eb-7e7fee9256a2",
+		"type": "OpenTrade",
+		"updatedAt": 1613496793143,
+		"occurredAt": 1613496793033,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__0a40b977-69dd-454f-b837-3c94c9e66b22",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613495866873,
+			"occurredAt": 1613495866587,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 77.18,
+		"leverage": 5,
+		"direction": "Long",
+		"symbol": {
+			"name": "run",
+			"displayName": "RUN",
+			"marketName": "Sunrun Inc.",
+			"categoryName": "stocks",
+			"priceFormat": 2,
+			"type": "Stock",
+			"typeName": "stock",
+			"instrumentID": 5660,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/5660/35x35.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/5660/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/5660/150x150.png"
+			},
+			"investmentCounter": {
+				"investors": 49677,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 100,
+				"sellPercentage": 0
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990313609,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__0a40b977-69dd-454f-b837-3c94c9e66b22",
+		"type": "OpenTrade",
+		"updatedAt": 1613495866873,
+		"occurredAt": 1613495866587,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__d2e411f9-2c08-4b04-99b2-68f76b0e30d9",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613495746350,
+			"occurredAt": 1613495746037,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 14056.43,
+		"leverage": 10,
+		"direction": "Short",
+		"symbol": {
+			"name": "ger30",
+			"displayName": "GER30",
+			"marketName": "GER30",
+			"categoryName": "indices",
+			"priceFormat": 2,
+			"type": "Indice",
+			"typeName": "instrument",
+			"instrumentID": 32,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/ger30/35x35.png",
+				"80X80": "/medium/DAX.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/ger30/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/ger30/150x150.png",
+				"70X70": "https://etoro-cdn.etorostatic.com/market-avatars/ger30/70x70.png"
+			},
+			"investmentCounter": {
+				"investors": 19753,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 41,
+				"sellPercentage": 59
+			}
+		},
+		"ratePrecision": 2,
+		"gain": -0.4633,
+		"positionID": 990040068,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__d2e411f9-2c08-4b04-99b2-68f76b0e30d9",
+		"type": "CloseTrade",
+		"updatedAt": 1613495746350,
+		"occurredAt": 1613495746037,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__baa972fb-87c8-43cc-a1aa-5a8b99e8cdf7",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613495735237,
+			"occurredAt": 1613495734783,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 31508.25,
+		"leverage": 20,
+		"direction": "Short",
+		"symbol": {
+			"name": "dj30",
+			"displayName": "DJ30",
+			"marketName": "DJ30",
+			"categoryName": "indices",
+			"priceFormat": 2,
+			"type": "Indice",
+			"typeName": "instrument",
+			"instrumentID": 29,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/dj30/35x35.png",
+				"80X80": "/medium/DOW.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/dj30/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/dj30/150x150.png",
+				"70X70": "https://etoro-cdn.etorostatic.com/market-avatars/dj30/70x70.png"
+			},
+			"investmentCounter": {
+				"investors": 12356,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 44,
+				"sellPercentage": 56
+			}
+		},
+		"ratePrecision": 2,
+		"gain": -2.3133,
+		"positionID": 989881484,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__baa972fb-87c8-43cc-a1aa-5a8b99e8cdf7",
+		"type": "CloseTrade",
+		"updatedAt": 1613495735237,
+		"occurredAt": 1613495734783,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__3375e075-34b6-4e2a-a364-72732069b1ad",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613495732367,
+			"occurredAt": 1613495731940,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 31504.75,
+		"leverage": 10,
+		"direction": "Short",
+		"symbol": {
+			"name": "dj30",
+			"displayName": "DJ30",
+			"marketName": "DJ30",
+			"categoryName": "indices",
+			"priceFormat": 2,
+			"type": "Indice",
+			"typeName": "instrument",
+			"instrumentID": 29,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/dj30/35x35.png",
+				"80X80": "/medium/DOW.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/dj30/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/dj30/150x150.png",
+				"70X70": "https://etoro-cdn.etorostatic.com/market-avatars/dj30/70x70.png"
+			},
+			"investmentCounter": {
+				"investors": 12356,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 44,
+				"sellPercentage": 56
+			}
+		},
+		"ratePrecision": 2,
+		"gain": -0.43,
+		"positionID": 989567985,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__3375e075-34b6-4e2a-a364-72732069b1ad",
+		"type": "CloseTrade",
+		"updatedAt": 1613495732367,
+		"occurredAt": 1613495731940,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__19ccd620-2414-433d-8987-d0ad398035dd",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613494726380,
+			"occurredAt": 1613494726167,
+			"commentsCount": 0,
+			"pageNumber": 1,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"rate": 14049.93,
+		"leverage": 10,
+		"direction": "Short",
+		"symbol": {
+			"name": "ger30",
+			"displayName": "GER30",
+			"marketName": "GER30",
+			"categoryName": "indices",
+			"priceFormat": 2,
+			"type": "Indice",
+			"typeName": "instrument",
+			"instrumentID": 32,
+			"images": {
+				"35X35": "https://etoro-cdn.etorostatic.com/market-avatars/ger30/35x35.png",
+				"80X80": "/medium/DAX.png",
+				"50X50": "https://etoro-cdn.etorostatic.com/market-avatars/ger30/50x50.png",
+				"150X150": "https://etoro-cdn.etorostatic.com/market-avatars/ger30/150x150.png",
+				"70X70": "https://etoro-cdn.etorostatic.com/market-avatars/ger30/70x70.png"
+			},
+			"investmentCounter": {
+				"investors": 19753,
+				"updatedAt": 1613543517926
+			},
+			"allocation": {
+				"buyPercentage": 41,
+				"sellPercentage": 59
+			}
+		},
+		"ratePrecision": 2,
+		"gain": 0.0,
+		"positionID": 990040068,
+		"messageBody": null,
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": null,
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__19ccd620-2414-433d-8987-d0ad398035dd",
+		"type": "OpenTrade",
+		"updatedAt": 1613494726380,
+		"occurredAt": 1613494726167,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	}
+]

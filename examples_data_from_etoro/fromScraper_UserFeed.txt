@@ -1,0 +1,2199 @@
+[
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__014688fe-cf36-440e-b447-f151301a519d",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1613024219737,
+			"occurredAt": 1613024219487,
+			"commentsCount": 0,
+			"pageNumber": 0,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"messageBody": "My portfolio is up 8.53% in the past day! check it out https://www.etoro.com/people/wislina/portfolio ",
+		"richMediaData": {
+			"title": "wisLina's trading portfolio on eToro.com",
+			"description": "",
+			"imageProperties": {
+				"url": "https://res.cloudinary.com/etoro/image/fetch/w_1.5/https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png",
+				"height": 225,
+				"width": 225
+			},
+			"richMediaID": "",
+			"scrapDataType": "Page",
+			"url": "https://www.etoro.com/people/wislina/portfolio",
+			"host": "www.etoro.com"
+		},
+		"sharedEntry": null,
+		"sharedViaEntry": null,
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": "en-gb",
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__014688fe-cf36-440e-b447-f151301a519d",
+		"type": "Discussion",
+		"updatedAt": 1613024219737,
+		"occurredAt": 1613024219487,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__89cda34c-5b7a-4962-9e3a-74c2bb6e7151",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1610915548450,
+			"occurredAt": 1610915548260,
+			"commentsCount": 0,
+			"pageNumber": 0,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"messageBody": "My portfolio is up 31.37% in the past month! check it out https://www.etoro.com/people/wislina/portfolio ",
+		"richMediaData": {
+			"title": "wisLina's trading portfolio on eToro.com",
+			"description": "",
+			"imageProperties": {
+				"url": "https://res.cloudinary.com/etoro/image/fetch/w_1.5/https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png",
+				"height": 225,
+				"width": 225
+			},
+			"richMediaID": "",
+			"scrapDataType": "Page",
+			"url": "https://www.etoro.com/people/wislina/portfolio",
+			"host": "www.etoro.com"
+		},
+		"sharedEntry": null,
+		"sharedViaEntry": null,
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": "en-gb",
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__89cda34c-5b7a-4962-9e3a-74c2bb6e7151",
+		"type": "Discussion",
+		"updatedAt": 1610915548450,
+		"occurredAt": 1610915548260,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__395cc89e-ab27-4dae-bb6b-c0d3b38d3f7a",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1610567233353,
+			"occurredAt": 1610567233240,
+			"commentsCount": 0,
+			"pageNumber": 0,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"messageBody": "My portfolio is up 15.83% in the past day! check it out https://www.etoro.com/people/wislina/portfolio ",
+		"richMediaData": {
+			"title": "wisLina's trading portfolio on eToro.com",
+			"description": "",
+			"imageProperties": {
+				"url": "https://res.cloudinary.com/etoro/image/fetch/w_1.5/https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png",
+				"height": 225,
+				"width": 225
+			},
+			"richMediaID": "",
+			"scrapDataType": "Page",
+			"url": "https://www.etoro.com/people/wislina/portfolio",
+			"host": "www.etoro.com"
+		},
+		"sharedEntry": null,
+		"sharedViaEntry": null,
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": "en-gb",
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__395cc89e-ab27-4dae-bb6b-c0d3b38d3f7a",
+		"type": "Discussion",
+		"updatedAt": 1610567233353,
+		"occurredAt": 1610567233240,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__cc0a3dc6-2277-4ca2-a40d-cccd65da1960",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1610102409640,
+			"occurredAt": 1610102409520,
+			"commentsCount": 0,
+			"pageNumber": 0,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"messageBody": "My portfolio is up 24.78% in the past day! check it out https://www.etoro.com/people/wislina/portfolio ",
+		"richMediaData": {
+			"title": "wisLina's trading portfolio on eToro.com",
+			"description": "",
+			"imageProperties": {
+				"url": "https://res.cloudinary.com/etoro/image/fetch/w_1.5/https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png",
+				"height": 225,
+				"width": 225
+			},
+			"richMediaID": "",
+			"scrapDataType": "Page",
+			"url": "https://www.etoro.com/people/wislina/portfolio",
+			"host": "www.etoro.com"
+		},
+		"sharedEntry": null,
+		"sharedViaEntry": null,
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": "en-gb",
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__cc0a3dc6-2277-4ca2-a40d-cccd65da1960",
+		"type": "Discussion",
+		"updatedAt": 1610102409640,
+		"occurredAt": 1610102409520,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__09a8cc17-80cc-4db2-9381-2bbe5cd733fc",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1608869357603,
+			"occurredAt": 1608833970457,
+			"commentsCount": 0,
+			"pageNumber": 0,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"messageBody": "My portfolio is up 9.31% in the past day! check it out https://www.etoro.com/people/wislina/portfolio ",
+		"richMediaData": {
+			"title": "wisLina's trading portfolio on eToro.com",
+			"description": "",
+			"imageProperties": {
+				"url": "https://res.cloudinary.com/etoro/image/fetch/w_1.5/https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png",
+				"height": 225,
+				"width": 225
+			},
+			"richMediaID": "",
+			"scrapDataType": "Page",
+			"url": "https://www.etoro.com/people/wislina/portfolio",
+			"host": "www.etoro.com"
+		},
+		"sharedEntry": null,
+		"sharedViaEntry": null,
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": "en-gb",
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__09a8cc17-80cc-4db2-9381-2bbe5cd733fc",
+		"type": "Discussion",
+		"updatedAt": 1608833971620,
+		"occurredAt": 1608833970457,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [
+			{
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": null,
+				"isMuted": false,
+				"parentID": "0__entry__09a8cc17-80cc-4db2-9381-2bbe5cd733fc",
+				"id": "0__entry__c5d2c8e8-f66b-4345-94af-6d20cb0ea457",
+				"type": "Like",
+				"updatedAt": 1608869357603,
+				"occurredAt": 1608869356490,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14593756,
+					"gcid": 14882644,
+					"username": "ktattsiang",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/ktattsiang/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/avatars/35X35/14593756/1.jpg",
+						"medium": "https://etoro-cdn.etorostatic.com/avatars/50X50/14593756/1.jpg",
+						"large": "https://etoro-cdn.etorostatic.com/avatars/150X150/14593756/1.jpg"
+					},
+					"country": {
+						"name": "Australia",
+						"a2": "AU",
+						"code": 12,
+						"phonePrefix": 61
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			}
+		],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__0678dbd0-5e87-4e27-be38-9142080ef772",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1606800412237,
+			"occurredAt": 1606799108750,
+			"commentsCount": 0,
+			"pageNumber": 0,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"messageBody": "My portfolio is up 46.35% in the past month! check it out https://www.etoro.com/people/wislina/portfolio \n$GER30  $AIR.PA $JMIA ",
+		"richMediaData": {
+			"title": "wisLina's trading portfolio on eToro.com",
+			"description": "",
+			"imageProperties": {
+				"url": "https://res.cloudinary.com/etoro/image/fetch/w_1.5/https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png",
+				"height": 225,
+				"width": 225
+			},
+			"richMediaID": "",
+			"scrapDataType": "Page",
+			"url": "https://www.etoro.com/people/wislina/portfolio",
+			"host": "www.etoro.com"
+		},
+		"sharedEntry": null,
+		"sharedViaEntry": null,
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": "en-gb",
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__0678dbd0-5e87-4e27-be38-9142080ef772",
+		"type": "Discussion",
+		"updatedAt": 1606800412237,
+		"occurredAt": 1606799108750,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__73fa4cfb-132b-419d-ae59-734c89eec72a",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1606674977560,
+			"occurredAt": 1606674976957,
+			"commentsCount": 0,
+			"pageNumber": 0,
+			"totalCommentsAndRepliesCount": 0
+		},
+		"messageBody": "My portfolio is up 63.41% in the past month! check it out https://www.etoro.com/people/wislina/portfolio ",
+		"richMediaData": {
+			"title": "wisLina's trading portfolio on eToro.com",
+			"description": "",
+			"imageProperties": {
+				"url": "https://res.cloudinary.com/etoro/image/fetch/w_1.5/https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png",
+				"height": 225,
+				"width": 225
+			},
+			"richMediaID": "",
+			"scrapDataType": "Page",
+			"url": "https://www.etoro.com/people/wislina/portfolio",
+			"host": "www.etoro.com"
+		},
+		"sharedEntry": null,
+		"sharedViaEntry": null,
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": "en-gb",
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__73fa4cfb-132b-419d-ae59-734c89eec72a",
+		"type": "Discussion",
+		"updatedAt": 1606674977560,
+		"occurredAt": 1606674976957,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [],
+		"timesShared": 0,
+		"editStatus": 0
+	},
+	{
+		"rootData": {
+			"reason": {
+				"sourceID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"type": "Owner"
+			},
+			"lastUpdatedItemAt": 1603374201203,
+			"occurredAt": 1602765233087,
+			"commentsCount": 16,
+			"pageNumber": 0,
+			"totalCommentsAndRepliesCount": 19
+		},
+		"messageBody": "$JMIA anyone selling today ??",
+		"richMediaData": {
+			"title": null,
+			"description": null,
+			"imageProperties": {
+				"url": null,
+				"height": 0,
+				"width": 0
+			},
+			"richMediaID": null,
+			"scrapDataType": "None",
+			"url": null,
+			"host": ""
+		},
+		"sharedEntry": null,
+		"sharedViaEntry": null,
+		"isShareDeleted": false,
+		"tags": null,
+		"isCurrentUserModerator": false,
+		"languageCode": "en-gb",
+		"isMuted": false,
+		"parentID": null,
+		"id": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+		"type": "Discussion",
+		"updatedAt": 1602765233227,
+		"occurredAt": 1602765233087,
+		"user": {
+			"accountType": 1,
+			"piLevel": 0,
+			"isPi": false,
+			"cid": 15553291,
+			"gcid": 15842200,
+			"username": "wisLina",
+			"firstName": null,
+			"lastName": null,
+			"allowDisplayFullName": false,
+			"url": "/wislina/",
+			"avatars": {
+				"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+				"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+				"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+			},
+			"country": {
+				"name": "Netherlands",
+				"a2": "NL",
+				"code": 143,
+				"phonePrefix": 31
+			}
+		},
+		"isFlaggedAsSpam": false,
+		"isCurrentUserFlagging": false,
+		"isCurrentUserLiking": false,
+		"isCurrentUserFollowing": false,
+		"isSavedByCurrentUser": false,
+		"items": [
+			{
+				"messageBody": "покупай  дальше будет + 300 %",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "ru-ru",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__b30d7925-f998-48ab-9cd0-81219b208225",
+				"type": "Comment",
+				"updatedAt": 1603374201203,
+				"occurredAt": 1603374200953,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14143770,
+					"gcid": 14432654,
+					"username": "korban00",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/korban00/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/ua.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/ua.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/ua.png"
+					},
+					"country": {
+						"name": "Ukraine",
+						"a2": "UA",
+						"code": 216,
+						"phonePrefix": 380
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "рост будет ещё",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "ru-ru",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__f30a71b5-859a-4606-a257-fe8b9df253d2",
+				"type": "Comment",
+				"updatedAt": 1603374173533,
+				"occurredAt": 1603374173457,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14143770,
+					"gcid": 14432654,
+					"username": "korban00",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/korban00/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/ua.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/ua.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/ua.png"
+					},
+					"country": {
+						"name": "Ukraine",
+						"a2": "UA",
+						"code": 216,
+						"phonePrefix": 380
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "ТОЛЬКО РОСТ. УЖЕ 200%",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "ru-ru",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__6b69e417-c694-41dc-bb5a-1b5133b48e4e",
+				"type": "Comment",
+				"updatedAt": 1603210232730,
+				"occurredAt": 1603210232437,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14143770,
+					"gcid": 14432654,
+					"username": "korban00",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/korban00/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/ua.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/ua.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/ua.png"
+					},
+					"country": {
+						"name": "Ukraine",
+						"a2": "UA",
+						"code": 216,
+						"phonePrefix": 380
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Im sell",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 2,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__7298a649-f635-4809-ae0e-7c2bd5d63909",
+				"type": "Comment",
+				"updatedAt": 1602778186950,
+				"occurredAt": 1602778186653,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 13928801,
+					"gcid": 14217704,
+					"username": "Oscar-97",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/oscar-97/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/it.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/it.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/it.png"
+					},
+					"country": {
+						"name": "Italy",
+						"a2": "IT",
+						"code": 102,
+						"phonePrefix": 39
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [
+					{
+						"messageBody": "I dont see any sell on your portfolio!!!!",
+						"richMediaData": {
+							"title": null,
+							"description": null,
+							"imageProperties": {
+								"url": null,
+								"height": 0,
+								"width": 0
+							},
+							"richMediaID": null,
+							"scrapDataType": "None",
+							"url": null,
+							"host": ""
+						},
+						"totalRepliesCount": 0,
+						"isShareDeleted": false,
+						"tags": null,
+						"isCurrentUserModerator": false,
+						"languageCode": "en-gb",
+						"isMuted": false,
+						"parentID": "0__entry__7298a649-f635-4809-ae0e-7c2bd5d63909",
+						"id": "0__entry__68044642-33fa-42b9-bbc3-14b7a90ef3c0",
+						"type": "Comment",
+						"updatedAt": 1602782094017,
+						"occurredAt": 1602782093873,
+						"user": {
+							"accountType": 1,
+							"piLevel": 0,
+							"isPi": false,
+							"cid": 15553291,
+							"gcid": 15842200,
+							"username": "wisLina",
+							"firstName": null,
+							"lastName": null,
+							"allowDisplayFullName": false,
+							"url": "/wislina/",
+							"avatars": {
+								"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+								"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+								"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+							},
+							"country": {
+								"name": "Netherlands",
+								"a2": "NL",
+								"code": 143,
+								"phonePrefix": 31
+							}
+						},
+						"isFlaggedAsSpam": false,
+						"isCurrentUserFlagging": false,
+						"isCurrentUserLiking": false,
+						"isCurrentUserFollowing": false,
+						"isSavedByCurrentUser": false,
+						"items": [],
+						"timesShared": 0,
+						"editStatus": 0
+					},
+					{
+						"messageBody": "только купить",
+						"richMediaData": {
+							"title": null,
+							"description": null,
+							"imageProperties": {
+								"url": null,
+								"height": 0,
+								"width": 0
+							},
+							"richMediaID": null,
+							"scrapDataType": "None",
+							"url": null,
+							"host": ""
+						},
+						"totalRepliesCount": 0,
+						"isShareDeleted": false,
+						"tags": null,
+						"isCurrentUserModerator": false,
+						"languageCode": "ru-ru",
+						"isMuted": false,
+						"parentID": "0__entry__7298a649-f635-4809-ae0e-7c2bd5d63909",
+						"id": "0__entry__974b2e4a-d074-4d70-ab6a-35b1bdcff4b8",
+						"type": "Comment",
+						"updatedAt": 1602780813090,
+						"occurredAt": 1602780812753,
+						"user": {
+							"accountType": 1,
+							"piLevel": 0,
+							"isPi": false,
+							"cid": 14143770,
+							"gcid": 14432654,
+							"username": "korban00",
+							"firstName": null,
+							"lastName": null,
+							"allowDisplayFullName": false,
+							"url": "/korban00/",
+							"avatars": {
+								"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/ua.png",
+								"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/ua.png",
+								"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/ua.png"
+							},
+							"country": {
+								"name": "Ukraine",
+								"a2": "UA",
+								"code": 216,
+								"phonePrefix": 380
+							}
+						},
+						"isFlaggedAsSpam": false,
+						"isCurrentUserFlagging": false,
+						"isCurrentUserLiking": false,
+						"isCurrentUserFollowing": false,
+						"isSavedByCurrentUser": false,
+						"items": [],
+						"timesShared": 0,
+						"editStatus": 0
+					}
+				],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Go go go",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__b5a8ca5e-2103-4e5a-abd7-d15d9edd048b",
+				"type": "Comment",
+				"updatedAt": 1602776601617,
+				"occurredAt": 1602776601117,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 13850383,
+					"gcid": 14139286,
+					"username": "NasirJam",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/nasirjam/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/ae.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/ae.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/ae.png"
+					},
+					"country": {
+						"name": "United Arab Emirates",
+						"a2": "AE",
+						"code": 217,
+						"phonePrefix": 971
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "This time to buy✈️✈️✈️",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__1f17e4bf-658b-4ed4-8618-61b0243a20d8",
+				"type": "Comment",
+				"updatedAt": 1602773841620,
+				"occurredAt": 1602773841453,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 13850383,
+					"gcid": 14139286,
+					"username": "NasirJam",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/nasirjam/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/ae.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/ae.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/ae.png"
+					},
+					"country": {
+						"name": "United Arab Emirates",
+						"a2": "AE",
+						"code": 217,
+						"phonePrefix": 971
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [
+					{
+						"isShareDeleted": false,
+						"tags": null,
+						"isCurrentUserModerator": false,
+						"languageCode": null,
+						"isMuted": false,
+						"parentID": "0__entry__1f17e4bf-658b-4ed4-8618-61b0243a20d8",
+						"id": "0__entry__1e618653-c01e-4b7f-a3a6-0b1631d911b3",
+						"type": "Like",
+						"updatedAt": 1602776927197,
+						"occurredAt": 1602776926537,
+						"user": {
+							"accountType": 1,
+							"piLevel": 0,
+							"isPi": false,
+							"cid": 12718955,
+							"gcid": 13007960,
+							"username": "Phiclos",
+							"firstName": null,
+							"lastName": null,
+							"allowDisplayFullName": false,
+							"url": "/phiclos/",
+							"avatars": {
+								"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/es.png",
+								"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/es.png",
+								"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/es.png"
+							},
+							"country": {
+								"name": "Spain",
+								"a2": "ES",
+								"code": 191,
+								"phonePrefix": 34
+							}
+						},
+						"isFlaggedAsSpam": false,
+						"isCurrentUserFlagging": false,
+						"isCurrentUserLiking": false,
+						"isCurrentUserFollowing": false,
+						"isSavedByCurrentUser": false,
+						"items": [],
+						"timesShared": 0,
+						"editStatus": 0
+					}
+				],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Up from now, looks like ",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__87da2338-67cd-4ca8-a587-dde247642bbd",
+				"type": "Comment",
+				"updatedAt": 1602771681410,
+				"occurredAt": 1602771681047,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 11102826,
+					"gcid": 11390388,
+					"username": "PAWELKOZ",
+					"firstName": "Pawel",
+					"lastName": "Kozlowski",
+					"allowDisplayFullName": true,
+					"url": "/pawelkoz/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/gb.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/gb.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/gb.png"
+					},
+					"country": {
+						"name": "United Kingdom",
+						"a2": "GB",
+						"code": 218,
+						"phonePrefix": 44
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Yes selling my soul",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__b9e2b60b-6309-48d2-bc30-aabe03d26aff",
+				"type": "Comment",
+				"updatedAt": 1602771472423,
+				"occurredAt": 1602771471940,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 7998970,
+					"gcid": 8284847,
+					"username": "ddizon",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/ddizon/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/avatars/35X35/7998970/3.jpg",
+						"medium": "https://etoro-cdn.etorostatic.com/avatars/50X50/7998970/3.jpg",
+						"large": "https://etoro-cdn.etorostatic.com/avatars/150X150/7998970/3.jpg"
+					},
+					"country": {
+						"name": "Australia",
+						"a2": "AU",
+						"code": 12,
+						"phonePrefix": 61
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Me😁",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__6f7e7e17-686e-4496-936d-efea0d5f61f9",
+				"type": "Comment",
+				"updatedAt": 1602771298420,
+				"occurredAt": 1602771298260,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 11102826,
+					"gcid": 11390388,
+					"username": "PAWELKOZ",
+					"firstName": "Pawel",
+					"lastName": "Kozlowski",
+					"allowDisplayFullName": true,
+					"url": "/pawelkoz/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/gb.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/gb.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/gb.png"
+					},
+					"country": {
+						"name": "United Kingdom",
+						"a2": "GB",
+						"code": 218,
+						"phonePrefix": 44
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Can someo en explain why this stock is traded.. its worse performing company.. who is buyung and selling this shit?",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__a019effe-2298-480a-83f0-d4c6afa6efa5",
+				"type": "Comment",
+				"updatedAt": 1602770441707,
+				"occurredAt": 1602770441587,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14161312,
+					"gcid": 14450196,
+					"username": "Aria786",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/aria786/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/avatars/35X35/14161312/1.jpg",
+						"medium": "https://etoro-cdn.etorostatic.com/avatars/50X50/14161312/1.jpg",
+						"large": "https://etoro-cdn.etorostatic.com/avatars/150X150/14161312/1.jpg"
+					},
+					"country": {
+						"name": "Germany",
+						"a2": "DE",
+						"code": 79,
+						"phonePrefix": 49
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Why cancel out it? Will I not make money ",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__1b151866-685d-4119-b515-de0befb67316",
+				"type": "Comment",
+				"updatedAt": 1602769064533,
+				"occurredAt": 1602769064233,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14751025,
+					"gcid": 15039913,
+					"username": "Hoody1",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/hoody1/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/gb.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/gb.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/gb.png"
+					},
+					"country": {
+						"name": "United Kingdom",
+						"a2": "GB",
+						"code": 218,
+						"phonePrefix": 44
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "What is that falls the percentage? Or the other number. New to this lol x",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 1,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__412a579d-fc04-4bac-8ff0-e69d7e991c50",
+				"type": "Comment",
+				"updatedAt": 1602768077597,
+				"occurredAt": 1602768077360,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14751025,
+					"gcid": 15039913,
+					"username": "Hoody1",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/hoody1/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/gb.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/gb.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/gb.png"
+					},
+					"country": {
+						"name": "United Kingdom",
+						"a2": "GB",
+						"code": 218,
+						"phonePrefix": 44
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [
+					{
+						"messageBody": "Never invest without any information. Close your position and get some Infos. ",
+						"richMediaData": {
+							"title": null,
+							"description": null,
+							"imageProperties": {
+								"url": null,
+								"height": 0,
+								"width": 0
+							},
+							"richMediaID": null,
+							"scrapDataType": "None",
+							"url": null,
+							"host": ""
+						},
+						"totalRepliesCount": 0,
+						"isShareDeleted": false,
+						"tags": null,
+						"isCurrentUserModerator": false,
+						"languageCode": "en-gb",
+						"isMuted": false,
+						"parentID": "0__entry__412a579d-fc04-4bac-8ff0-e69d7e991c50",
+						"id": "0__entry__8352ebf3-03fb-40b5-981a-c98b30f469e0",
+						"type": "Comment",
+						"updatedAt": 1602768177153,
+						"occurredAt": 1602768177037,
+						"user": {
+							"accountType": 1,
+							"piLevel": 0,
+							"isPi": false,
+							"cid": 13552107,
+							"gcid": 13841010,
+							"username": "Ayhan098",
+							"firstName": "Ayhan",
+							"lastName": "Özdemir",
+							"allowDisplayFullName": true,
+							"url": "/ayhan098/",
+							"avatars": {
+								"small": "https://etoro-cdn.etorostatic.com/avatars/35X35/13552107/1.jpg",
+								"medium": "https://etoro-cdn.etorostatic.com/avatars/50X50/13552107/1.jpg",
+								"large": "https://etoro-cdn.etorostatic.com/avatars/150X150/13552107/1.jpg"
+							},
+							"country": {
+								"name": "Germany",
+								"a2": "DE",
+								"code": 79,
+								"phonePrefix": 49
+							}
+						},
+						"isFlaggedAsSpam": false,
+						"isCurrentUserFlagging": false,
+						"isCurrentUserLiking": false,
+						"isCurrentUserFollowing": false,
+						"isSavedByCurrentUser": false,
+						"items": [
+							{
+								"isShareDeleted": false,
+								"tags": null,
+								"isCurrentUserModerator": false,
+								"languageCode": null,
+								"isMuted": false,
+								"parentID": "0__entry__8352ebf3-03fb-40b5-981a-c98b30f469e0",
+								"id": "0__entry__218f249a-02d1-40a7-98dd-d698e4e42e1a",
+								"type": "Like",
+								"updatedAt": 1602824363943,
+								"occurredAt": 1602824363823,
+								"user": {
+									"accountType": 1,
+									"piLevel": 0,
+									"isPi": false,
+									"cid": 11889302,
+									"gcid": 12177784,
+									"username": "Marianbullproof",
+									"firstName": null,
+									"lastName": null,
+									"allowDisplayFullName": false,
+									"url": "/marianbullproof/",
+									"avatars": {
+										"small": "https://etoro-cdn.etorostatic.com/avatars/35X35/11889302/1.jpg",
+										"medium": "https://etoro-cdn.etorostatic.com/avatars/50X50/11889302/1.jpg",
+										"large": "https://etoro-cdn.etorostatic.com/avatars/150X150/11889302/1.jpg"
+									},
+									"country": {
+										"name": "United Kingdom",
+										"a2": "GB",
+										"code": 218,
+										"phonePrefix": 44
+									}
+								},
+								"isFlaggedAsSpam": false,
+								"isCurrentUserFlagging": false,
+								"isCurrentUserLiking": false,
+								"isCurrentUserFollowing": false,
+								"isSavedByCurrentUser": false,
+								"items": [],
+								"timesShared": 0,
+								"editStatus": 0
+							},
+							{
+								"isShareDeleted": false,
+								"tags": null,
+								"isCurrentUserModerator": false,
+								"languageCode": null,
+								"isMuted": false,
+								"parentID": "0__entry__8352ebf3-03fb-40b5-981a-c98b30f469e0",
+								"id": "0__entry__7a89fded-123f-499d-903e-ae72ab987238",
+								"type": "Like",
+								"updatedAt": 1602776892427,
+								"occurredAt": 1602776892260,
+								"user": {
+									"accountType": 1,
+									"piLevel": 0,
+									"isPi": false,
+									"cid": 12718955,
+									"gcid": 13007960,
+									"username": "Phiclos",
+									"firstName": null,
+									"lastName": null,
+									"allowDisplayFullName": false,
+									"url": "/phiclos/",
+									"avatars": {
+										"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/es.png",
+										"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/es.png",
+										"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/es.png"
+									},
+									"country": {
+										"name": "Spain",
+										"a2": "ES",
+										"code": 191,
+										"phonePrefix": 34
+									}
+								},
+								"isFlaggedAsSpam": false,
+								"isCurrentUserFlagging": false,
+								"isCurrentUserLiking": false,
+								"isCurrentUserFollowing": false,
+								"isSavedByCurrentUser": false,
+								"items": [],
+								"timesShared": 0,
+								"editStatus": 0
+							},
+							{
+								"isShareDeleted": false,
+								"tags": null,
+								"isCurrentUserModerator": false,
+								"languageCode": null,
+								"isMuted": false,
+								"parentID": "0__entry__8352ebf3-03fb-40b5-981a-c98b30f469e0",
+								"id": "0__entry__7da00862-7b94-4b58-bc8e-1dfd2b255153",
+								"type": "Like",
+								"updatedAt": 1602768691793,
+								"occurredAt": 1602768691650,
+								"user": {
+									"accountType": 1,
+									"piLevel": 0,
+									"isPi": false,
+									"cid": 16251085,
+									"gcid": 16540116,
+									"username": "Bobby2099",
+									"firstName": null,
+									"lastName": null,
+									"allowDisplayFullName": false,
+									"url": "/bobby2099/",
+									"avatars": {
+										"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/ie.png",
+										"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/ie.png",
+										"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/ie.png"
+									},
+									"country": {
+										"name": "Ireland",
+										"a2": "IE",
+										"code": 100,
+										"phonePrefix": 353
+									}
+								},
+								"isFlaggedAsSpam": false,
+								"isCurrentUserFlagging": false,
+								"isCurrentUserLiking": false,
+								"isCurrentUserFollowing": false,
+								"isSavedByCurrentUser": false,
+								"items": [],
+								"timesShared": 0,
+								"editStatus": 0
+							}
+						],
+						"timesShared": 0,
+						"editStatus": 0
+					}
+				],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Okay ",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__ace8c027-b631-4378-8831-c1ff54b41fe6",
+				"type": "Comment",
+				"updatedAt": 1602768042113,
+				"occurredAt": 1602768042000,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14751025,
+					"gcid": 15039913,
+					"username": "Hoody1",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/hoody1/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/gb.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/gb.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/gb.png"
+					},
+					"country": {
+						"name": "United Kingdom",
+						"a2": "GB",
+						"code": 218,
+						"phonePrefix": 44
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "Nope. If it falls buy more ",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__c43c180b-7c57-4693-8758-4b1f1fbf9bc8",
+				"type": "Comment",
+				"updatedAt": 1602768023223,
+				"occurredAt": 1602768011697,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 13552107,
+					"gcid": 13841010,
+					"username": "Ayhan098",
+					"firstName": "Ayhan",
+					"lastName": "Özdemir",
+					"allowDisplayFullName": true,
+					"url": "/ayhan098/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/avatars/35X35/13552107/1.jpg",
+						"medium": "https://etoro-cdn.etorostatic.com/avatars/50X50/13552107/1.jpg",
+						"large": "https://etoro-cdn.etorostatic.com/avatars/150X150/13552107/1.jpg"
+					},
+					"country": {
+						"name": "Germany",
+						"a2": "DE",
+						"code": 79,
+						"phonePrefix": 49
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [
+					{
+						"isShareDeleted": false,
+						"tags": null,
+						"isCurrentUserModerator": false,
+						"languageCode": null,
+						"isMuted": false,
+						"parentID": "0__entry__c43c180b-7c57-4693-8758-4b1f1fbf9bc8",
+						"id": "0__entry__9afb1bfe-2edd-4faa-8ed2-bd8b79265e3c",
+						"type": "Like",
+						"updatedAt": 1602777282330,
+						"occurredAt": 1602777282137,
+						"user": {
+							"accountType": 1,
+							"piLevel": 0,
+							"isPi": false,
+							"cid": 16148745,
+							"gcid": 16437776,
+							"username": "Devvy123",
+							"firstName": null,
+							"lastName": null,
+							"allowDisplayFullName": false,
+							"url": "/devvy123/",
+							"avatars": {
+								"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/gb.png",
+								"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/gb.png",
+								"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/gb.png"
+							},
+							"country": {
+								"name": "United Kingdom",
+								"a2": "GB",
+								"code": 218,
+								"phonePrefix": 44
+							}
+						},
+						"isFlaggedAsSpam": false,
+						"isCurrentUserFlagging": false,
+						"isCurrentUserLiking": false,
+						"isCurrentUserFollowing": false,
+						"isSavedByCurrentUser": false,
+						"items": [],
+						"timesShared": 0,
+						"editStatus": 0
+					},
+					{
+						"isShareDeleted": false,
+						"tags": null,
+						"isCurrentUserModerator": false,
+						"languageCode": null,
+						"isMuted": false,
+						"parentID": "0__entry__c43c180b-7c57-4693-8758-4b1f1fbf9bc8",
+						"id": "0__entry__b78e8797-2fff-45a5-8183-864eeb5f2976",
+						"type": "Like",
+						"updatedAt": 1602776875883,
+						"occurredAt": 1602776875737,
+						"user": {
+							"accountType": 1,
+							"piLevel": 0,
+							"isPi": false,
+							"cid": 12718955,
+							"gcid": 13007960,
+							"username": "Phiclos",
+							"firstName": null,
+							"lastName": null,
+							"allowDisplayFullName": false,
+							"url": "/phiclos/",
+							"avatars": {
+								"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/es.png",
+								"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/es.png",
+								"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/es.png"
+							},
+							"country": {
+								"name": "Spain",
+								"a2": "ES",
+								"code": 191,
+								"phonePrefix": 34
+							}
+						},
+						"isFlaggedAsSpam": false,
+						"isCurrentUserFlagging": false,
+						"isCurrentUserLiking": false,
+						"isCurrentUserFollowing": false,
+						"isSavedByCurrentUser": false,
+						"items": [],
+						"timesShared": 0,
+						"editStatus": 0
+					},
+					{
+						"isShareDeleted": false,
+						"tags": null,
+						"isCurrentUserModerator": false,
+						"languageCode": null,
+						"isMuted": false,
+						"parentID": "0__entry__c43c180b-7c57-4693-8758-4b1f1fbf9bc8",
+						"id": "0__entry__7b353858-28c4-4f0b-9e18-d8bf79e2b108",
+						"type": "Like",
+						"updatedAt": 1602773895130,
+						"occurredAt": 1602773895007,
+						"user": {
+							"accountType": 1,
+							"piLevel": 0,
+							"isPi": false,
+							"cid": 9140546,
+							"gcid": 9427345,
+							"username": "GetPaidTrading",
+							"firstName": null,
+							"lastName": null,
+							"allowDisplayFullName": false,
+							"url": "/getpaidtrading/",
+							"avatars": {
+								"small": "https://etoro-cdn.etorostatic.com/avatars/35X35/9140546/2.jpg",
+								"medium": "https://etoro-cdn.etorostatic.com/avatars/50X50/9140546/2.jpg",
+								"large": "https://etoro-cdn.etorostatic.com/avatars/150X150/9140546/2.jpg"
+							},
+							"country": {
+								"name": "Ireland",
+								"a2": "IE",
+								"code": 100,
+								"phonePrefix": 353
+							}
+						},
+						"isFlaggedAsSpam": false,
+						"isCurrentUserFlagging": false,
+						"isCurrentUserLiking": false,
+						"isCurrentUserFollowing": false,
+						"isSavedByCurrentUser": false,
+						"items": [],
+						"timesShared": 0,
+						"editStatus": 0
+					}
+				],
+				"timesShared": 0,
+				"editStatus": 1
+			},
+			{
+				"messageBody": "in 40 mns",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__31ea93bb-3e1c-4629-845d-c4ac60642a2f",
+				"type": "Comment",
+				"updatedAt": 1602766193510,
+				"occurredAt": 1602766193357,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 15553291,
+					"gcid": 15842200,
+					"username": "wisLina",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/wislina/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/nl.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/nl.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/nl.png"
+					},
+					"country": {
+						"name": "Netherlands",
+						"a2": "NL",
+						"code": 143,
+						"phonePrefix": 31
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			},
+			{
+				"messageBody": "When does jmia open for trade??",
+				"richMediaData": {
+					"title": null,
+					"description": null,
+					"imageProperties": {
+						"url": null,
+						"height": 0,
+						"width": 0
+					},
+					"richMediaID": null,
+					"scrapDataType": "None",
+					"url": null,
+					"host": ""
+				},
+				"totalRepliesCount": 0,
+				"isShareDeleted": false,
+				"tags": null,
+				"isCurrentUserModerator": false,
+				"languageCode": "en-gb",
+				"isMuted": false,
+				"parentID": "0__entry__1dfa5bb0-005b-4b07-9b87-3c72a8e73ba9",
+				"id": "0__entry__b7e79934-a99c-458a-a954-316fc81ad070",
+				"type": "Comment",
+				"updatedAt": 1602766033747,
+				"occurredAt": 1602766033560,
+				"user": {
+					"accountType": 1,
+					"piLevel": 0,
+					"isPi": false,
+					"cid": 14751025,
+					"gcid": 15039913,
+					"username": "Hoody1",
+					"firstName": null,
+					"lastName": null,
+					"allowDisplayFullName": false,
+					"url": "/hoody1/",
+					"avatars": {
+						"small": "https://etoro-cdn.etorostatic.com/images/avatoros/35x35/gb.png",
+						"medium": "https://etoro-cdn.etorostatic.com/images/avatoros/50x50/gb.png",
+						"large": "https://etoro-cdn.etorostatic.com/images/avatoros/150x150/gb.png"
+					},
+					"country": {
+						"name": "United Kingdom",
+						"a2": "GB",
+						"code": 218,
+						"phonePrefix": 44
+					}
+				},
+				"isFlaggedAsSpam": false,
+				"isCurrentUserFlagging": false,
+				"isCurrentUserLiking": false,
+				"isCurrentUserFollowing": false,
+				"isSavedByCurrentUser": false,
+				"items": [],
+				"timesShared": 0,
+				"editStatus": 0
+			}
+		],
+		"timesShared": 0,
+		"editStatus": 0
+	}
+]
